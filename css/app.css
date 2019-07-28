@@ -6,7 +6,7 @@ tbody tr:nth-of-type(5n) {
     background-color: #8AA6E5;
 }
 
-tbody tr:nth-of-type(15n) {
+tbody tr:nth-of-type(5n):nth-of-type(3n) {
     background-color: #262E40;
     color:#6276A3;
 }
